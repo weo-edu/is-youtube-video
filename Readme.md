@@ -16,6 +16,8 @@ Check if a url is a youtube video url.  Correctly processes the regular watch ur
 `isYoutubeVideo('https://youtu.be/uxpDa-c-4Mc') === true`
 `isYoutubeVideo('https://www.youtube.com/embed/uxpDa-c-4Mc') === true`
 
+It is particularly useful in conjunction with: [get-youtube-id](https://github.com/jmorrell/get-youtube-id).
+
 ## License
 
 The MIT License
