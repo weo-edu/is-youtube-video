@@ -1,0 +1,13 @@
+{
+  "name": "is-youtube-video",
+  "description": "Check if a url is a youtube video url",
+  "repository": "git://github.com/weo-edu/is-youtube-video.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "2.x",
+    "standard": "^4.0.0"
+  }
+}
